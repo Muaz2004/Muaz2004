@@ -13,4 +13,4 @@ I'm a third-year Computer Science student at Addis Ababa University passionate a
 🚀 Quick learner, problem solver, and contributor to open-source projects.  
 
 📫 **Connect with me:**  
-[🌐 Portfolio](https://muaz-portfolio.vercel.app/)| [💼 LinkedIn](https://www.linkedin.com/in/muazindris) | [✉️ Email](mailto:muazindris64@gmail.com)
+[🌐 Portfolio](https://muaz-portfolio.vercel.app/)| [💼 LinkedIn](https://www.linkedin.com/in/muaz-indris-370175358/)| [✉️ Email](mailto:muazindris64@gmail.com)
