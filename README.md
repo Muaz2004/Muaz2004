@@ -4,7 +4,7 @@
 
 I'm a third-year Computer Science student at Addis Ababa University passionate about building mobile and web applications. I have experience in:
 
-- **Backend:** Python, Django, Django REST Framework  
+- **Backend:** Python, Django, Django REST Framework, GraphQL   
 - **Frontend:** React, Flutter, Tailwind CSS  
 - **Databases:** PostgreSQL, Firebase, SQLite  
 - **Tools:** Docker, Git, GitHub  
