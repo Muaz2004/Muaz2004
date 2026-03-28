@@ -31,28 +31,26 @@ RAG • LangChain • Vector Databases • LLM APIs
 ### Connect with me
 
 <p align="left">
-<p align="left">
-  <a href="https://muaz-portfolio.vercel.app/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/googlechrome.svg" height="30" style="margin-right: 12px;" />
+  <a href="https://muaz-portfolio.vercel.app/" target="_blank" style="text-decoration:none; margin-right:15px; font-size:22px;">
+    🌐
   </a>
 
-  <a href="https://www.linkedin.com/in/muaz-indris-370175358/" target="_blank" style="margin-right: 10px;">
+  <a href="https://www.linkedin.com/in/muaz-indris-370175358/" target="_blank" style="margin-right:15px;">
     <img src="https://skillicons.dev/icons?i=linkedin" height="30" />
   </a>
 
-  <a href="https://github.com/Muaz2004" target="_blank" style="margin-right: 10px;">
+  <a href="https://github.com/Muaz2004" target="_blank" style="margin-right:15px;">
     <img src="https://skillicons.dev/icons?i=github" height="30" />
   </a>
 
-  <a href="https://leetcode.com/u/Muaz_Indris/" target="_blank" style="margin-right: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" height="30"/>
+  <a href="https://leetcode.com/u/Muaz_Indris/" target="_blank" style="margin-right:15px;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/leetcode.svg" height="30"/>
   </a>
 
   <a href="mailto:muazindris64@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="30" />
   </a>
 </p>
-
 ---
 
 ### 📊 GitHub Stats
