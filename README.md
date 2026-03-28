@@ -27,21 +27,26 @@ RAG • LangChain • Vector Databases • LLM APIs
 
 ---
 
+
 ### Connect with me
 
 <p align="left">
-  <a href="https://muaz-portfolio.vercel.app/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=vercel" height="30" />
+  <a href="https://muaz-portfolio.vercel.app/" target="_blank" style="margin-right: 10px;">
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/domain.png" height="30"/>
   </a>
-  <a href="https://www.linkedin.com/in/muaz-indris-370175358/" target="_blank">
+
+  <a href="https://www.linkedin.com/in/muaz-indris-370175358/" target="_blank" style="margin-right: 10px;">
     <img src="https://skillicons.dev/icons?i=linkedin" height="30" />
   </a>
-  <a href="https://github.com/Muaz2004" target="_blank">
+
+  <a href="https://github.com/Muaz2004" target="_blank" style="margin-right: 10px;">
     <img src="https://skillicons.dev/icons?i=github" height="30" />
   </a>
-  <a href="https://leetcode.com/u/Muaz_Indris/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=leetcode" height="30" />
+
+  <a href="https://leetcode.com/u/Muaz_Indris/" target="_blank" style="margin-right: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" height="30"/>
   </a>
+
   <a href="mailto:muazindris64@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="30" />
   </a>
