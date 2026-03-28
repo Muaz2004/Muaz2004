@@ -31,9 +31,10 @@ RAG • LangChain • Vector Databases • LLM APIs
 ### Connect with me
 
 <p align="left">
-  <a href="https://muaz-portfolio.vercel.app/" target="_blank" style="text-decoration:none; margin-right:15px; font-size:22px;">
+  <a href="https://muaz-portfolio.vercel.app/" target="_blank" style="text-decoration:none; margin-right:15px; font-size:30px; vertical-align:middle;">
     🌐
   </a>
+
 
   <a href="https://www.linkedin.com/in/muaz-indris-370175358/" target="_blank" style="margin-right:15px;">
     <img src="https://skillicons.dev/icons?i=linkedin" height="30" />
