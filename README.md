@@ -31,8 +31,8 @@ RAG • LangChain • Vector Databases • LLM APIs
 ### Connect with me
 
 <p align="left">
-  <a href="https://muaz-portfolio.vercel.app/" target="_blank" style="text-decoration:none; margin-right:15px; font-size:30px; vertical-align:middle;">
-    🌐
+ <a href="https://muaz-portfolio.vercel.app/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/googlechrome.svg" height="30" style="margin-right: 12px;" />
   </a>
 
 
@@ -56,8 +56,8 @@ RAG • LangChain • Vector Databases • LLM APIs
 
 ### 📊 GitHub Stats
 
-![Muaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muaz2004&show_icons=true&theme=radical&v=2)
-![GitHub Streak](https://streak-stats.demolab.com?user=Muaz2004&theme=radical&v=2)
+![Muaz's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Muaz2004&show_icons=true&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=Muaz2004&theme=radical)
 ![Profile Views](https://komarev.com/ghpvc/?username=Muaz2004)
 
 ---
