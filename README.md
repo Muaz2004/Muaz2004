@@ -27,16 +27,32 @@ RAG • LangChain • Vector Databases • LLM APIs
 
 ---
 
-###  Connect with me
+### Connect with me
 
-[🌐 Portfolio](https://muaz-portfolio.vercel.app/) | [💼 LinkedIn](https://www.linkedin.com/in/muaz-indris-370175358/) | [💻 GitHub](https://github.com/Muaz2004) | [🧠 LeetCode](https://leetcode.com/u/Muaz_Indris/) | [✉️ Email](mailto:muazindris64@gmail.com)
+<p align="left">
+  <a href="https://muaz-portfolio.vercel.app/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vercel" height="30" />
+  </a>
+  <a href="https://www.linkedin.com/in/muaz-indris-370175358/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="30" />
+  </a>
+  <a href="https://github.com/Muaz2004" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="30" />
+  </a>
+  <a href="https://leetcode.com/u/Muaz_Indris/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=leetcode" height="30" />
+  </a>
+  <a href="mailto:muazindris64@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="30" />
+  </a>
+</p>
 
 ---
 
 ### 📊 GitHub Stats
 
-![Muaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muaz2004\&show_icons=true\&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com/?user=Muaz2004\&theme=radical)
+![Muaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muaz2004&show_icons=true&theme=radical&v=2)
+![GitHub Streak](https://streak-stats.demolab.com?user=Muaz2004&theme=radical&v=2)
 ![Profile Views](https://komarev.com/ghpvc/?username=Muaz2004)
 
 ---
