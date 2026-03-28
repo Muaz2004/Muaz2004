@@ -31,8 +31,9 @@ RAG • LangChain • Vector Databases • LLM APIs
 ### Connect with me
 
 <p align="left">
-  <a href="https://muaz-portfolio.vercel.app/" target="_blank" style="margin-right: 10px;">
-    <img src="https://img.icons8.com/ios-filled/50/ffffff/domain.png" height="30"/>
+<p align="left">
+  <a href="https://muaz-portfolio.vercel.app/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/googlechrome.svg" height="30" style="margin-right: 12px;" />
   </a>
 
   <a href="https://www.linkedin.com/in/muaz-indris-370175358/" target="_blank" style="margin-right: 10px;">
