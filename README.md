@@ -55,7 +55,7 @@ RAG • LangChain • Vector Databases • LLM APIs
 ---
 
 ###  GitHub Stats
-![](https://streak-stats.demolab.com?user=Muaz2004&theme=radical)
+![](https://streak-stats.demolab.com?user=Muaz2004&theme=radical&hide_border=true)
 ![](https://komarev.com/ghpvc/?username=Muaz2004)
 
 ---
