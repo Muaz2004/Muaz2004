@@ -54,11 +54,11 @@ RAG • LangChain • Vector Databases • LLM APIs
 </p>
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
-![Muaz's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Muaz2004&show_icons=true&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com?user=Muaz2004&theme=radical)
-![Profile Views](https://komarev.com/ghpvc/?username=Muaz2004)
+![](https://github-readme-stats.vercel.app/api?username=Muaz2004&show_icons=true&theme=radical)
+![](https://streak-stats.demolab.com?user=Muaz2004&theme=radical)
+![](https://komarev.com/ghpvc/?username=Muaz2004)
 
 ---
 
