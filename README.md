@@ -10,7 +10,7 @@ Passionate about building **scalable web, mobile, and AI-powered applications** 
 ###  Tech Stack
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,django,drf,graphql,react,flutter,dart,js,tailwind,postgres,firebase,docker,vscode" />
+<img src="https://skillicons.dev/icons?i=python,django,graphql,react,flutter,dart,js,tailwind,postgres,firebase,docker" />
 </p>
 
 **Backend:** Django • Django REST Framework • GraphQL
