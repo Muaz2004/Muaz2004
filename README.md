@@ -14,9 +14,9 @@ Passionate about building **scalable web, mobile, AI-powered, and systems applic
 </p>
 
 **Languages:** Python • Rust • Java • C++ • Dart • JavaScript
-**Backend:** Django • Django REST Framework • FastAPI • Rust
+**Backend:** Django • Django REST Framework • GraphQL
 **Frontend:** React • Tailwind CSS
-**Mobile:** Flutter • Dart
+**Mobile:** Flutter
 **Databases:** PostgreSQL • Firebase • SQLite
 **Tools:** Docker • Git • GitHub
 
@@ -28,14 +28,14 @@ Building with **Rust** for systems programming, CLI applications, concurrency, p
 
 ### AI Stack
 
-RAG • LangChain • LangGraph • Vector Databases • LLM APIs • AI Agents
+RAG • LangChain • Vector Databases • LLM APIs
 
 ---
 
 ### Connect with me
 
 <p align="left">
-  <a href="https://muaz-portfolio.vercel.app/" target="_blank">
+ <a href="https://muaz-portfolio.vercel.app/" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/googlechrome.svg" height="30" style="margin-right: 12px;" />
   </a>
 
@@ -51,16 +51,16 @@ RAG • LangChain • LangGraph • Vector Databases • LLM APIs • AI Agents
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/leetcode.svg" height="30"/>
   </a>
 
-  <a href="mailto:[muazindris64@gmail.com](mailto:muazindris64@gmail.com)">
+  <a href="mailto:muazindris64@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="30" />
   </a>
 </p>
-
 ---
 
 ### GitHub Stats
 
-\
+![](https://streak-stats.demolab.com?user=Muaz2004\&theme=radical\&hide_border=true)
+![](https://komarev.com/ghpvc/?username=Muaz2004)
 
 ---
 
