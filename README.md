@@ -14,10 +14,15 @@ Passionate about building **scalable web, mobile, AI-powered, and systems applic
 </p>
 
 **Languages:** Python • Rust • Java • C++ • Dart • JavaScript
+
 **Backend:** Django • Django REST Framework • GraphQL
+
 **Frontend:** React • Tailwind CSS
+
 **Mobile:** Flutter
+
 **Databases:** PostgreSQL • Firebase • SQLite
+
 **Tools:** Docker • Git • GitHub
 
 ### Rust
