@@ -61,11 +61,30 @@ RAG • LangChain • Vector Databases • LLM APIs
   </a>
 </p>
 ---
+---
 
-### GitHub Stats
+### 📊 GitHub Stats
 
-![](https://streak-stats.demolab.com?user=Muaz2004\&theme=radical\&hide_border=true)
-![](https://komarev.com/ghpvc/?username=Muaz2004)
+<p align="center">
+  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=Muaz2004&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics" />
+  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Muaz2004&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Programming Languages" />
+</p>
+
+<p align="center">
+  <img width="70%" src="https://streak-stats.demolab.com?user=Muaz2004&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muaz2004&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution Activity Graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Muaz2004&theme=tokyonight&no-frame=true&margin-w=8&row=1" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Muaz2004&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
+</p>
 
 ---
 
