@@ -76,18 +76,12 @@ RAG • LangChain • Vector Databases • LLM APIs
   <img width="70%" src="https://streak-stats.demolab.com?user=Muaz2004&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/Muaz2004">
-    <img src="https://ghstats.dev/api/card?username=Muaz2004&theme=tokyonight" width="100%" alt="GitHub Activity Overview" />
-  </a>
-</p>
+
 
 <p align="center">
   <a href="https://github.com/Muaz2004?tab=achievements">
     <img src="https://img.shields.io/badge/GitHub-View%20Achievements-181717?style=for-the-badge&logo=github" alt="View GitHub Achievements" />
   </a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=Muaz2004&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
 </p>
 
 ---
