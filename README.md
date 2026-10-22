@@ -63,6 +63,8 @@ RAG • LangChain • Vector Databases • LLM APIs
 ---
 ---
 
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -75,15 +77,17 @@ RAG • LangChain • Vector Databases • LLM APIs
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muaz2004&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution Activity Graph" />
+  <a href="https://github.com/Muaz2004">
+    <img src="https://ghstats.dev/api/card?username=Muaz2004&theme=tokyonight" width="100%" alt="GitHub Activity Overview" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Muaz2004&theme=tokyonight&no-frame=true&margin-w=8&row=1" alt="GitHub Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Muaz2004&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
+  <a href="https://github.com/Muaz2004?tab=achievements">
+    <img src="https://img.shields.io/badge/GitHub-View%20Achievements-181717?style=for-the-badge&logo=github" alt="View GitHub Achievements" />
+  </a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=Muaz2004&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
 </p>
 
 ---
