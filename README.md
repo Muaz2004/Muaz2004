@@ -1,4 +1,4 @@
-# Hi, I'm Muaz Indris Ahmed
+# Hi, I'm Muaz Indris 
 
 **AI & Full Stack Developer**
 Computer Science Student @ Addis Ababa University (Expected 2027)
